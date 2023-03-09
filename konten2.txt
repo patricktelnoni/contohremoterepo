@@ -1,1 +1,2 @@
 1. Konten pertama file konten2.txt
+2. Bari kedua konten2.txt
