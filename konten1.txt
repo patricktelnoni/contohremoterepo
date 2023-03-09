@@ -1,1 +1,2 @@
 1. Konten pertama file konten1.txt
+2. Konten kedua file konten1.txt
